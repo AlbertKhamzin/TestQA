@@ -2,6 +2,8 @@
 
 @Продажи
 @tree
+@ExportScenarios
+@IgnoreOnCIMainBuild
 
 Функционал: Загрузка НСИ для тестирования заказов
 
